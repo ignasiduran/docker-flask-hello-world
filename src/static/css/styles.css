@@ -1,0 +1,9 @@
+/* custom styles */
+
+.container {
+    line-height: 1.4;
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-text-size-adjust: 100%;
+    font-family: "Helvetica,Arial,sans-serif";
+    text-rendering: optimizeLegibility;
+}
